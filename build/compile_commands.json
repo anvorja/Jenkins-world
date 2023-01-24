@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/andre/OneDrive/Escritorio/Jenkins-world/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\jenkinsW.dir\\main.cpp.obj -c C:\\Users\\andre\\OneDrive\\Escritorio\\Jenkins-world\\main.cpp",
+  "file": "C:/Users/andre/OneDrive/Escritorio/Jenkins-world/main.cpp"
+},
+{
+  "directory": "C:/Users/andre/OneDrive/Escritorio/Jenkins-world/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\jenkinsW.dir\\ejercito.cpp.obj -c C:\\Users\\andre\\OneDrive\\Escritorio\\Jenkins-world\\ejercito.cpp",
+  "file": "C:/Users/andre/OneDrive/Escritorio/Jenkins-world/ejercito.cpp"
+},
+{
+  "directory": "C:/Users/andre/OneDrive/Escritorio/Jenkins-world/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\jenkinsW.dir\\personaje.cpp.obj -c C:\\Users\\andre\\OneDrive\\Escritorio\\Jenkins-world\\personaje.cpp",
+  "file": "C:/Users/andre/OneDrive/Escritorio/Jenkins-world/personaje.cpp"
+}
+]

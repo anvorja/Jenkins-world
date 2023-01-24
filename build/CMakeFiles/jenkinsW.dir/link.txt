@@ -1,0 +1,3 @@
+C:\cmake-3.21.1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\jenkinsW.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\jenkinsW.dir/objects.a @CMakeFiles\jenkinsW.dir\objects1.rsp
+C:\TDM-GCC-64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\jenkinsW.dir/objects.a -Wl,--no-whole-archive -o jenkinsW.exe -Wl,--out-implib,libjenkinsW.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\jenkinsW.dir\linklibs.rsp
